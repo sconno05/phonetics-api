@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonetics", "Phonetics\Phonetics.csproj", "{7822F77F-92A9-4055-B3CF-D22A94380333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonetics.Tests", "Phonetics.Tests\Phonetics.Tests.csproj", "{1AD42CF5-4C0E-4F7B-85F2-80BA02F3E8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7822F77F-92A9-4055-B3CF-D22A94380333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7822F77F-92A9-4055-B3CF-D22A94380333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7822F77F-92A9-4055-B3CF-D22A94380333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7822F77F-92A9-4055-B3CF-D22A94380333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD42CF5-4C0E-4F7B-85F2-80BA02F3E8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD42CF5-4C0E-4F7B-85F2-80BA02F3E8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD42CF5-4C0E-4F7B-85F2-80BA02F3E8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD42CF5-4C0E-4F7B-85F2-80BA02F3E8F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
